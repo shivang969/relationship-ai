@@ -1,5 +1,5 @@
 {
-  "pipeline_run": "2026-03-01T03:28:48.099561",
+  "pipeline_run": "2026-03-01T03:40:59.530368",
   "total_contacts": 10,
   "scored_contacts": [
     {
@@ -401,14 +401,7 @@
         "No contact in 73 days \u2014 relationship may be fading"
       ],
       "priority": "high",
-      "ai_decision": {
-        "situation_summary": "Unable to analyze \u2014 API error",
-        "action_type": "check_in",
-        "urgency": "medium",
-        "reasoning": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYbDXyGYXQzQMLSAJZ4o1'}",
-        "draft_message": "Hey Vikas! Been a while \u2014 how are you doing?",
-        "insight": "Regular check-ins help maintain relationship health."
-      }
+      "ai_decision": null
     },
     {
       "contact": "Dev Patel",
@@ -447,14 +440,7 @@
         "No contact in 73 days \u2014 relationship may be fading"
       ],
       "priority": "high",
-      "ai_decision": {
-        "situation_summary": "Unable to analyze \u2014 API error",
-        "action_type": "check_in",
-        "urgency": "medium",
-        "reasoning": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYbDXzi7LHWKFcKaUxh9V'}",
-        "draft_message": "Hey Dev! Been a while \u2014 how are you doing?",
-        "insight": "Regular check-ins help maintain relationship health."
-      }
+      "ai_decision": null
     },
     {
       "contact": "Rohan Mehta",
@@ -493,14 +479,44 @@
         "You initiate 80% of conversations"
       ],
       "priority": "high",
-      "ai_decision": {
-        "situation_summary": "Unable to analyze \u2014 API error",
-        "action_type": "check_in",
-        "urgency": "medium",
-        "reasoning": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYbDY2cCyYHwWrYsuWmVr'}",
-        "draft_message": "Hey Rohan! Been a while \u2014 how are you doing?",
-        "insight": "Regular check-ins help maintain relationship health."
-      }
+      "ai_decision": null
+    },
+    {
+      "contact": "Meera Iyer",
+      "total_messages": 7,
+      "days_since_last": 25,
+      "freq_recent_30d": 1,
+      "freq_prev_30d": 0,
+      "freq_trend": 1,
+      "my_message_ratio": 0.429,
+      "my_start_ratio": 0.4,
+      "avg_reply_latency_mins": 468.0,
+      "sentiment_score": -1.0,
+      "plan_mentions": 1,
+      "unresolved_plans": [],
+      "avg_gap_days": 10.5,
+      "silence_ratio": 2.38,
+      "last_message_date": "2026-02-04",
+      "last_message_preview": "Hey we really should catch up soon!",
+      "relationship_type": "college_friend",
+      "true_pattern": "drifting",
+      "health_score": 36,
+      "grade": "C",
+      "subscores": {
+        "recency": 40,
+        "frequency": 14,
+        "reciprocity": 83,
+        "sentiment": 0,
+        "engagement": 36
+      },
+      "anomalies": [
+        "negative_sentiment"
+      ],
+      "flags": [
+        "Recent conversations have a negative emotional tone"
+      ],
+      "priority": "medium",
+      "ai_decision": null
     },
     {
       "contact": "Ananya Gupta",
@@ -539,58 +555,7 @@
         "You initiate 80% of conversations"
       ],
       "priority": "high",
-      "ai_decision": {
-        "situation_summary": "Unable to analyze \u2014 API error",
-        "action_type": "check_in",
-        "urgency": "medium",
-        "reasoning": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYbDY4VZd7YNSanDxoFrs'}",
-        "draft_message": "Hey Ananya! Been a while \u2014 how are you doing?",
-        "insight": "Regular check-ins help maintain relationship health."
-      }
-    },
-    {
-      "contact": "Meera Iyer",
-      "total_messages": 7,
-      "days_since_last": 25,
-      "freq_recent_30d": 1,
-      "freq_prev_30d": 0,
-      "freq_trend": 1,
-      "my_message_ratio": 0.429,
-      "my_start_ratio": 0.4,
-      "avg_reply_latency_mins": 468.0,
-      "sentiment_score": -1.0,
-      "plan_mentions": 1,
-      "unresolved_plans": [],
-      "avg_gap_days": 10.5,
-      "silence_ratio": 2.38,
-      "last_message_date": "2026-02-04",
-      "last_message_preview": "Hey we really should catch up soon!",
-      "relationship_type": "college_friend",
-      "true_pattern": "drifting",
-      "health_score": 36,
-      "grade": "C",
-      "subscores": {
-        "recency": 40,
-        "frequency": 14,
-        "reciprocity": 83,
-        "sentiment": 0,
-        "engagement": 36
-      },
-      "anomalies": [
-        "negative_sentiment"
-      ],
-      "flags": [
-        "Recent conversations have a negative emotional tone"
-      ],
-      "priority": "medium",
-      "ai_decision": {
-        "situation_summary": "Unable to analyze \u2014 API error",
-        "action_type": "check_in",
-        "urgency": "medium",
-        "reasoning": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYbDY65pC3nSavshXJCe8'}",
-        "draft_message": "Hey Meera! Been a while \u2014 how are you doing?",
-        "insight": "Regular check-ins help maintain relationship health."
-      }
+      "ai_decision": null
     },
     {
       "contact": "Priya Nair",
@@ -627,14 +592,147 @@
         "Recent conversations have a negative emotional tone"
       ],
       "priority": "medium",
-      "ai_decision": {
-        "situation_summary": "Unable to analyze \u2014 API error",
-        "action_type": "check_in",
-        "urgency": "medium",
-        "reasoning": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYbDY7Sfo3bTCf1XyHxdg'}",
-        "draft_message": "Hey Priya! Been a while \u2014 how are you doing?",
-        "insight": "Regular check-ins help maintain relationship health."
-      }
+      "ai_decision": null
+    },
+    {
+      "contact": "Tanya Bose",
+      "total_messages": 8,
+      "days_since_last": 24,
+      "freq_recent_30d": 2,
+      "freq_prev_30d": 0,
+      "freq_trend": 2,
+      "my_message_ratio": 0.5,
+      "my_start_ratio": 0.5,
+      "avg_reply_latency_mins": 450.0,
+      "sentiment_score": -1.0,
+      "plan_mentions": 1,
+      "unresolved_plans": [],
+      "avg_gap_days": 9.0,
+      "silence_ratio": 2.67,
+      "last_message_date": "2026-02-04",
+      "last_message_preview": "I'm really stressed about this",
+      "relationship_type": "college_friend",
+      "true_pattern": "drifting",
+      "health_score": 41,
+      "grade": "C",
+      "subscores": {
+        "recency": 40,
+        "frequency": 18,
+        "reciprocity": 100,
+        "sentiment": 0,
+        "engagement": 36
+      },
+      "anomalies": [
+        "negative_sentiment"
+      ],
+      "flags": [
+        "Recent conversations have a negative emotional tone"
+      ],
+      "priority": "medium",
+      "ai_decision": null
+    },
+    {
+      "contact": "Sneha Kulkarni",
+      "total_messages": 155,
+      "days_since_last": 3,
+      "freq_recent_30d": 41,
+      "freq_prev_30d": 62,
+      "freq_trend": -21,
+      "my_message_ratio": 0.516,
+      "my_start_ratio": 0.692,
+      "avg_reply_latency_mins": 249.0,
+      "sentiment_score": 0.6,
+      "plan_mentions": 50,
+      "unresolved_plans": [],
+      "avg_gap_days": 0.4,
+      "silence_ratio": 3.0,
+      "last_message_date": "2026-02-26",
+      "last_message_preview": "Omg thank you!! That means a lot",
+      "relationship_type": "close_friend",
+      "true_pattern": "healthy",
+      "health_score": 81,
+      "grade": "A",
+      "subscores": {
+        "recency": 85,
+        "frequency": 70,
+        "reciprocity": 79,
+        "sentiment": 80,
+        "engagement": 93
+      },
+      "anomalies": [
+        "frequency_decay"
+      ],
+      "flags": [
+        "Activity dropped from 62 \u2192 41 msgs/month"
+      ],
+      "priority": "medium",
+      "ai_decision": null
+    },
+    {
+      "contact": "Kabir Sharma",
+      "total_messages": 156,
+      "days_since_last": -1,
+      "freq_recent_30d": 52,
+      "freq_prev_30d": 50,
+      "freq_trend": 2,
+      "my_message_ratio": 0.519,
+      "my_start_ratio": 0.619,
+      "avg_reply_latency_mins": 298.7,
+      "sentiment_score": 0.605,
+      "plan_mentions": 50,
+      "unresolved_plans": [],
+      "avg_gap_days": 0.4,
+      "silence_ratio": -1.0,
+      "last_message_date": "2026-03-02",
+      "last_message_preview": "This is great news",
+      "relationship_type": "project_partner",
+      "true_pattern": "healthy",
+      "health_score": 91,
+      "grade": "A",
+      "subscores": {
+        "recency": 100,
+        "frequency": 90,
+        "reciprocity": 86,
+        "sentiment": 80,
+        "engagement": 92
+      },
+      "anomalies": [],
+      "flags": [],
+      "priority": "low",
+      "ai_decision": null
+    },
+    {
+      "contact": "Aarav Shah",
+      "total_messages": 155,
+      "days_since_last": -1,
+      "freq_recent_30d": 61,
+      "freq_prev_30d": 42,
+      "freq_trend": 19,
+      "my_message_ratio": 0.516,
+      "my_start_ratio": 0.564,
+      "avg_reply_latency_mins": 249.0,
+      "sentiment_score": 0.6,
+      "plan_mentions": 50,
+      "unresolved_plans": [],
+      "avg_gap_days": 0.4,
+      "silence_ratio": -1.0,
+      "last_message_date": "2026-03-02",
+      "last_message_preview": "Omg thank you!! That means a lot",
+      "relationship_type": "close_friend",
+      "true_pattern": "healthy",
+      "health_score": 92,
+      "grade": "A",
+      "subscores": {
+        "recency": 100,
+        "frequency": 90,
+        "reciprocity": 92,
+        "sentiment": 80,
+        "engagement": 93
+      },
+      "anomalies": [],
+      "flags": [],
+      "priority": "low",
+      "ai_decision": null
     }
   ],
   "summary": {
