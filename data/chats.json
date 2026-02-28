@@ -1,0 +1,3682 @@
+{
+  "messages": [
+    {
+      "timestamp": "2025-12-01T03:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T03:28:38.059615",
+      "sender": "You",
+      "receiver": "Priya Nair",
+      "message": "Hey it's been a while!",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2025-12-01T03:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T03:28:38.059852",
+      "sender": "You",
+      "receiver": "Meera Iyer",
+      "message": "Hey it's been a while!",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2025-12-01T03:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-01T03:28:38.060076",
+      "sender": "You",
+      "receiver": "Tanya Bose",
+      "message": "Hey it's been a while!",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2025-12-01T05:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T05:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T06:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T10:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-01T11:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T12:28:38.059615",
+      "sender": "Priya Nair",
+      "receiver": "You",
+      "message": "Yeah I know sorry been swamped",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2025-12-01T12:28:38.060076",
+      "sender": "Tanya Bose",
+      "receiver": "You",
+      "message": "Yeah I know sorry been swamped",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2025-12-01T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T14:28:38.059852",
+      "sender": "Meera Iyer",
+      "receiver": "You",
+      "message": "Yeah I know sorry been swamped",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2025-12-01T15:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T15:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T16:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T16:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-01T17:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T19:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T19:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T20:28:38.059615",
+      "sender": "You",
+      "receiver": "Priya Nair",
+      "message": "No worries. Miss hanging out",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2025-12-01T21:28:38.059852",
+      "sender": "You",
+      "receiver": "Meera Iyer",
+      "message": "No worries. Miss hanging out",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2025-12-01T21:28:38.060076",
+      "sender": "You",
+      "receiver": "Tanya Bose",
+      "message": "No worries. Miss hanging out",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2025-12-01T22:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-01T23:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-01T23:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-02T00:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-02T01:28:38.059615",
+      "sender": "Priya Nair",
+      "receiver": "You",
+      "message": "Same.. we should plan something",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2025-12-02T02:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-02T02:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-02T04:28:38.059615",
+      "sender": "You",
+      "receiver": "Priya Nair",
+      "message": "Definitely. Let me know when you're free",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2025-12-02T04:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-02T05:28:38.060076",
+      "sender": "Tanya Bose",
+      "receiver": "You",
+      "message": "Same.. we should plan something",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2025-12-02T07:28:38.059615",
+      "sender": "Priya Nair",
+      "receiver": "You",
+      "message": "Will do!",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2025-12-02T07:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-02T09:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-02T09:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-02T09:28:38.059852",
+      "sender": "Meera Iyer",
+      "receiver": "You",
+      "message": "Same.. we should plan something",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2025-12-02T10:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Let's meet next Friday for sure",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-02T11:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-02T12:28:38.059852",
+      "sender": "You",
+      "receiver": "Meera Iyer",
+      "message": "Definitely. Let me know when you're free",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2025-12-02T16:28:38.060076",
+      "sender": "You",
+      "receiver": "Tanya Bose",
+      "message": "Definitely. Let me know when you're free",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2025-12-02T17:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Let's study together tomorrow at 5",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-02T18:28:38.059852",
+      "sender": "Meera Iyer",
+      "receiver": "You",
+      "message": "Will do!",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2025-12-02T18:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-02T22:28:38.060076",
+      "sender": "Tanya Bose",
+      "receiver": "You",
+      "message": "Will do!",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2025-12-03T01:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-03T04:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-03T09:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Let's study together tomorrow at 5",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-05T10:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-05T14:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-05T18:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-05T19:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-05T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-06T06:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-06T09:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-06T10:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-06T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-06T17:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-06T18:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-06T19:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-06T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-06T23:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-07T00:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-07T00:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-07T01:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-07T04:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-07T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-07T11:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-07T12:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-07T12:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-07T19:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-07T20:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-08T00:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-08T04:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-08T08:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-08T12:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-08T13:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-08T16:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T02:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T03:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-13T07:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T09:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-13T13:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T14:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-13T15:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T17:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-13T19:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-13T21:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-14T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-14T03:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-14T04:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-14T05:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-14T07:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-14T08:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-14T11:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-14T14:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-14T16:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-14T20:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-14T23:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T03:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T08:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T12:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T13:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T14:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T20:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T21:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-15T22:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-16T03:28:38.059844",
+      "sender": "You",
+      "receiver": "Dev Patel",
+      "message": "Hey! Good seeing you at the event",
+      "contact": "Dev Patel"
+    },
+    {
+      "timestamp": "2025-12-16T03:28:38.060071",
+      "sender": "You",
+      "receiver": "Vikas Rao",
+      "message": "Hey! Good seeing you at the event",
+      "contact": "Vikas Rao"
+    },
+    {
+      "timestamp": "2025-12-17T00:28:38.059844",
+      "sender": "Dev Patel",
+      "receiver": "You",
+      "message": "Yeah same! We should hang sometime",
+      "contact": "Dev Patel"
+    },
+    {
+      "timestamp": "2025-12-17T03:28:38.060071",
+      "sender": "Vikas Rao",
+      "receiver": "You",
+      "message": "Yeah same! We should hang sometime",
+      "contact": "Vikas Rao"
+    },
+    {
+      "timestamp": "2025-12-17T10:28:38.059844",
+      "sender": "You",
+      "receiver": "Dev Patel",
+      "message": "Definitely, will ping you",
+      "contact": "Dev Patel"
+    },
+    {
+      "timestamp": "2025-12-17T12:28:38.059844",
+      "sender": "You",
+      "receiver": "Dev Patel",
+      "message": "Not doing great",
+      "contact": "Dev Patel"
+    },
+    {
+      "timestamp": "2025-12-17T12:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-17T15:28:38.060071",
+      "sender": "You",
+      "receiver": "Vikas Rao",
+      "message": "Definitely, will ping you",
+      "contact": "Vikas Rao"
+    },
+    {
+      "timestamp": "2025-12-17T16:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-17T17:28:38.060071",
+      "sender": "You",
+      "receiver": "Vikas Rao",
+      "message": "Super anxious lately",
+      "contact": "Vikas Rao"
+    },
+    {
+      "timestamp": "2025-12-18T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-18T02:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-18T10:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-18T17:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-18T21:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-19T04:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-19T12:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-19T19:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-19T22:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-19T23:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "We should plan a trip in December",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-20T03:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-20T04:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-20T06:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T07:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T09:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T12:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-20T12:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T14:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-20T14:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T16:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T20:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-20T21:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-20T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-21T03:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-21T04:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-21T05:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-21T09:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-21T10:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-21T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Let's meet next Friday for sure",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-21T14:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-21T16:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Let's meet next Friday for sure",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-22T23:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-23T01:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-23T08:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-23T12:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-23T15:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-23T23:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-24T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-24T04:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-24T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-24T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-25T16:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-25T21:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-25T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-26T03:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-26T05:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-26T12:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-26T17:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-27T01:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-27T07:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-27T10:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2025-12-27T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-27T16:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-27T21:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-28T01:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-28T07:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-28T11:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-28T16:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-28T23:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-29T02:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-29T07:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2025-12-30T17:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-30T23:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-31T03:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Hey are you free this weekend?",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2025-12-31T03:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Hey are you free this weekend?",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2025-12-31T07:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-31T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2025-12-31T22:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-01T01:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-01T09:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-01T16:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-01T17:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-01T20:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-01T22:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-02T01:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-02T02:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-02T03:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-02T06:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-02T10:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-02T13:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-02T21:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-03T04:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-03T08:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Hey did you get my message?",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-01-03T09:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-03T15:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-03T17:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-03T18:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-04T02:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-04T04:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-04T06:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-04T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-04T15:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-04T18:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-05T00:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-06T07:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Hey did you get my message?",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-06T11:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Just checking in, hope you're okay",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-01-08T07:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-08T11:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-08T13:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-08T14:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-08T16:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-08T18:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-08T19:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-09T00:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-09T01:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-09T02:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-09T02:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-09T07:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-09T08:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-09T08:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Just checking in, hope you're okay",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-09T08:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-09T11:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-09T13:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-09T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-09T15:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-09T16:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-09T16:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-09T19:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-09T22:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-10T00:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-10T01:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-10T04:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-10T05:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Let's study together tomorrow at 5",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-10T05:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-10T06:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-10T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "We should plan a trip in December",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-10T11:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-10T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-10T16:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-10T21:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Let's meet next Friday for sure",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-12T12:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Yo long time no talk!",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-13T15:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Yo long time no talk!",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-01-13T21:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-14T00:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-14T05:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-14T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-14T10:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-14T10:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-14T14:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-14T17:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-14T20:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-14T20:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-15T00:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-15T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-15T02:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-15T05:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-15T09:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-15T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-15T16:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-15T18:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-15T22:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-16T05:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-16T06:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-16T13:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-16T16:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-16T21:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-17T00:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-17T04:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-17T09:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-17T13:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Hey! Hope everything's good",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-17T16:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-17T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-18T05:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-18T16:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Hey! Hope everything's good",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-01-18T19:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T02:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T07:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T08:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T09:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T13:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-19T15:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T17:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-19T18:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-19T23:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-20T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-20T02:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-20T07:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-20T08:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-20T10:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-20T15:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-20T23:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-21T00:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-21T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-21T11:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-21T15:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Miss ya, let's catch up soon",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-22T09:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-22T17:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-22T19:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-22T20:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-22T22:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-23T01:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-23T04:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-23T11:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-23T13:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-23T17:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-23T19:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-23T20:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-23T21:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T00:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T01:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T07:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T17:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T20:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-24T21:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-25T02:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "I'll call you this weekend",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-25T19:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Miss ya, let's catch up soon",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-01-25T20:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "Hey you there?",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-27T18:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-27T22:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-28T02:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-28T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-28T08:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-28T10:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-28T12:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-28T15:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-28T16:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-28T18:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-28T22:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-28T23:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Hey you there?",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-01-29T00:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-29T06:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-29T07:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-29T07:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-29T10:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-29T14:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-29T14:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-29T17:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-01-29T20:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-30T03:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-30T03:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "We should plan a trip in December",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-01-30T08:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-30T09:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-30T11:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-30T16:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-30T22:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-31T00:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-31T05:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-31T12:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-31T15:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-01-31T22:28:38.059629",
+      "sender": "Rohan Mehta",
+      "receiver": "You",
+      "message": "Finally replied sorry was super busy",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-01-31T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Let's meet next Friday for sure",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-02T02:28:38.059629",
+      "sender": "You",
+      "receiver": "Rohan Mehta",
+      "message": "No worries! How have you been?",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-02-04T00:28:38.060053",
+      "sender": "Ananya Gupta",
+      "receiver": "You",
+      "message": "Finally replied sorry was super busy",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-02-04T03:28:38.059615",
+      "sender": "Priya Nair",
+      "receiver": "You",
+      "message": "Hey we really should catch up soon!",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2026-02-04T03:28:38.059852",
+      "sender": "Meera Iyer",
+      "receiver": "You",
+      "message": "Hey we really should catch up soon!",
+      "contact": "Meera Iyer"
+    },
+    {
+      "timestamp": "2026-02-04T03:28:38.060076",
+      "sender": "Tanya Bose",
+      "receiver": "You",
+      "message": "Hey we really should catch up soon!",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2026-02-04T05:28:38.059615",
+      "sender": "You",
+      "receiver": "Priya Nair",
+      "message": "This sucks",
+      "contact": "Priya Nair"
+    },
+    {
+      "timestamp": "2026-02-04T05:28:38.060076",
+      "sender": "You",
+      "receiver": "Tanya Bose",
+      "message": "I'm really stressed about this",
+      "contact": "Tanya Bose"
+    },
+    {
+      "timestamp": "2026-02-04T20:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-04T21:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-05T00:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-05T03:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-05T04:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "No worries! How have you been?",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-02-05T06:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-05T06:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-05T07:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-05T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-05T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-05T15:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-05T17:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-05T17:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-05T22:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-05T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-06T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-06T01:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-06T02:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-06T03:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-06T03:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-06T04:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-06T05:28:38.059629",
+      "sender": "Rohan Mehta",
+      "receiver": "You",
+      "message": "Good good. Busy with stuff",
+      "contact": "Rohan Mehta"
+    },
+    {
+      "timestamp": "2026-02-06T09:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-06T10:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-06T11:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-06T13:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-06T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-06T16:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-06T22:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-07T01:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-07T02:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-07T08:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-10T08:28:38.060053",
+      "sender": "Ananya Gupta",
+      "receiver": "You",
+      "message": "Good good. Busy with stuff",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-02-10T10:28:38.060053",
+      "sender": "You",
+      "receiver": "Ananya Gupta",
+      "message": "Super anxious lately",
+      "contact": "Ananya Gupta"
+    },
+    {
+      "timestamp": "2026-02-10T16:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-10T18:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T00:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T05:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T09:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T10:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T14:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T15:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-11T16:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T18:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-11T22:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-12T02:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-12T04:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-12T08:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-12T11:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-12T15:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-12T16:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-12T19:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-12T22:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-13T03:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-13T04:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-13T09:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-13T11:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-13T14:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-13T16:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-13T18:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-13T22:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-13T23:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-13T23:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-14T03:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-14T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "I'll call you this weekend",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-16T04:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-16T07:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-16T15:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-16T18:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-16T23:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-17T04:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-17T06:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-17T10:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-17T12:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-17T13:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-17T14:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-17T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-17T19:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-17T20:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-18T00:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-18T02:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-18T02:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-18T03:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-18T04:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-18T08:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Let's study together tomorrow at 5",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-18T08:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-18T12:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Let's meet next Friday for sure",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-19T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-19T12:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-19T17:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-19T23:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-20T06:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-20T12:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-20T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-20T15:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-20T20:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-20T23:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-22T12:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-22T16:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-22T19:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-23T03:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-23T05:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-23T09:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-23T17:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-23T22:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-24T04:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Hey! How's the internship going?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-24T04:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-24T06:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-24T07:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-24T08:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-24T10:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-24T13:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-24T14:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-24T18:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-24T19:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-24T20:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-25T01:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-25T02:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-25T03:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-25T07:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-25T08:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-25T10:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-25T11:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-25T12:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-25T17:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-25T21:28:38.059646",
+      "sender": "You",
+      "receiver": "Sneha Kulkarni",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-26T02:28:38.059646",
+      "sender": "Sneha Kulkarni",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Sneha Kulkarni"
+    },
+    {
+      "timestamp": "2026-02-28T09:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Hey! How's the internship going?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-28T14:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Hey! How's the internship going?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-28T14:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-28T16:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-28T17:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-02-28T18:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "It's great! Super busy but loving it. You?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-28T20:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Same tbh. Let's catch up this weekend?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-28T21:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yes! Saturday works for me \ud83d\ude4c",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-02-28T22:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-01T03:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Btw did you see the new project brief?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-03-01T05:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-03-01T05:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Yeah, looks intense. We should plan together",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-01T09:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-03-01T12:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Agreed. Coffee at 4pm Saturday?",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-01T14:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-03-01T16:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Perfect. See you then!",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-01T18:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-01T22:28:38.059388",
+      "sender": "You",
+      "receiver": "Aarav Shah",
+      "message": "Also happy birthday btw!! \ud83c\udf82",
+      "contact": "Aarav Shah"
+    },
+    {
+      "timestamp": "2026-03-01T22:28:38.059862",
+      "sender": "Kabir Sharma",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-02T00:28:38.059862",
+      "sender": "You",
+      "receiver": "Kabir Sharma",
+      "message": "This is great news",
+      "contact": "Kabir Sharma"
+    },
+    {
+      "timestamp": "2026-03-02T02:28:38.059388",
+      "sender": "Aarav Shah",
+      "receiver": "You",
+      "message": "Omg thank you!! That means a lot",
+      "contact": "Aarav Shah"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Aarav Shah",
+      "type": "close_friend",
+      "pattern": "healthy"
+    },
+    {
+      "name": "Priya Nair",
+      "type": "college_friend",
+      "pattern": "drifting"
+    },
+    {
+      "name": "Rohan Mehta",
+      "type": "project_partner",
+      "pattern": "one_sided"
+    },
+    {
+      "name": "Sneha Kulkarni",
+      "type": "close_friend",
+      "pattern": "healthy"
+    },
+    {
+      "name": "Dev Patel",
+      "type": "acquaintance",
+      "pattern": "dormant"
+    },
+    {
+      "name": "Meera Iyer",
+      "type": "college_friend",
+      "pattern": "drifting"
+    },
+    {
+      "name": "Kabir Sharma",
+      "type": "project_partner",
+      "pattern": "healthy"
+    },
+    {
+      "name": "Ananya Gupta",
+      "type": "close_friend",
+      "pattern": "one_sided"
+    },
+    {
+      "name": "Vikas Rao",
+      "type": "acquaintance",
+      "pattern": "dormant"
+    },
+    {
+      "name": "Tanya Bose",
+      "type": "college_friend",
+      "pattern": "drifting"
+    }
+  ]
+}
