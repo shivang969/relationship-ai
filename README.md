@@ -4,29 +4,7 @@ An AI-powered system that analyzes communication patterns and automates relation
 
 ---
 
-## 🚀 Setup & Run (5 minutes)
-
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Set your Anthropic API key
-```bash
-export ANTHROPIC_API_KEY=your_key_here
-```
-
-### 3. Generate synthetic data + run pipeline
-```bash
-python main.py
-```
-
-### 4. Launch the dashboard
-```bash
-streamlit run dashboard/app.py
-```
-
----
+the deployed link is https://relationship-ai.streamlit.app/
 
 ## 🏗️ Architecture
 
